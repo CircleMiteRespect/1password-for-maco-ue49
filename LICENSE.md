@@ -1,4 +1,4 @@
-# 
+# Enhance 1Password for macOS with 1Password for macOS secure Tool: device-lock & real-time-protection, the #1 tool. Includes device-lock and real-time-protection for a safer macOS
 
 
 
